@@ -1,0 +1,14 @@
+8-904-1822
+git --version
+git config --global user.name "David Flores"
+git config --global user.email "tu_email@correo.com"
+git clone https://github.com/davidpty03/quiz-git.git
+...
+git push origin main
+
+1. git branch
+2. git fetch vs git pull: fetch descarga, pull descarga y fusiona
+3. git push sin commit: nothing to push
+4. git merge <rama>
+5. git restore archivo.txt
+6. git restore archivo.txt vs git restore --staged archivo.txt
